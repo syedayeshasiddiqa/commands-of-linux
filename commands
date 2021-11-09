@@ -1,0 +1,44 @@
+mkdir filename:
+used to make a directory
+cd filename:
+this command takes to home directory
+pwd:
+ used to find the current working directory
+cd:
+ used to change the directory from one directory to other
+ls:
+used for listing all the directories,files and link
+ls-l:
+displays items in single row
+touch:
+creates an empty file or directory
+ls-la:
+displays all the files and directories even that are hidden
+ls-R: 
+recursively shows all the folders
+ls-lh:
+ displays the files and directories of sizes in human readable format
+ls-lhr:
+reverse the order of displayed files in human readable format
+ls * :
+displays all files subfiles and sub directories
+cd .. :
+returns back to the previous folders from current working folders
+cat filename :
+ displays all the content present in the listed file
+ls-lt:
+displays all the files according to time as which file is created at what time
+ls-ltr:
+this command just reverses timing of files
+grep:
+used for searching of files
+pipe | :
+it is used to connect the output of one command to the input of other command
+redirect > filename:
+it pushes some content to the particular reffered file
+echo :
+works for to print particular content to the reffered file
+ls -lhtr:
+this command performs reverse of human readable format and time of the refferd files and directories
+cp sourcefile exixtingfile:
+this file copies the content from one file to other file
