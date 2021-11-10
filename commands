@@ -1,19 +1,21 @@
 mkdir filename:
 used to make a directory
 cd filename:
-this command takes to home directory
+change directory is mainly used for to change the directory from current directory to the other directories or files
 pwd:
- used to find the current working directory
-cd:
- used to change the directory from one directory to other
+used to find the current working directory
+cd /:
+this command is usd to go the root directory
+cd ..:
+it moves one folder back from the recently created folder
 ls:
-used for listing all the directories,files and link
+used for listing all the directories,files and links of the specific folder
 ls-l:
-displays items in single row
+displays information of items in single row either link,directory or files
 touch:
-creates an empty file or directory
+create an empty files
 ls-la:
-displays all the files and directories even that are hidden
+displays all the files and directories along hidden files and directories
 ls-R: 
 recursively shows all the folders
 ls-lh:
@@ -22,14 +24,12 @@ ls-lhr:
 reverse the order of displayed files in human readable format
 ls * :
 displays all files subfiles and sub directories
-cd .. :
-returns back to the previous folders from current working folders
 cat filename :
- displays all the content present in the listed file
+displays all the content present in the listed file
 ls-lt:
-displays all the files according to time as which file is created at what time
+displays all the files according to time as which file is updatedly lastly is the first file to be listed
 ls-ltr:
-this command just reverses timing of files
+this command just reverses the recently updated file to the bottom in a list of files
 grep:
 used for searching of files
 pipe | :
